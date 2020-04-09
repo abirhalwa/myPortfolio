@@ -1,0 +1,80 @@
+body,
+html,
+p,
+ul,
+h2,
+h3,
+h4,
+button {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    // overflow: hidden;
+    font-family: $primaryFont;
+    color: $primaryColor;
+    font-size: 1.6rem;
+    background-color: $lightColor;
+}
+
+.headerWrapper, .bodyWrapper {
+    max-width: 1400px;
+    width: 78%;
+    margin: 0 auto;
+}
+
+.bodyWrapper {
+     width: 68%;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+h2, h3, h4 {
+    line-height: normal;
+}
+
+h2 {
+    font-size: 8rem;
+    letter-spacing: 0.5rem;
+    transition: all 0.5s;
+    font-weight: 800;
+    text-align: center;
+    z-index: 2;
+    position: relative;
+    color: $secondaryColor;
+    margin-bottom: 40px;
+}
+
+h3 {
+    font-family: $handwritingFont;
+    color: $secondaryColor;
+    font-size: 6.5rem;
+    font-weight: 400;
+}
+
+h4 {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+p {
+    line-height: 2;
+}

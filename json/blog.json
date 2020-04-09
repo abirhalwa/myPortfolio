@@ -1,0 +1,38 @@
+[
+	{
+		"image" : "images/blog-1-min.jpg",
+		"alt": "Web design trends",
+		"title" : "Web design trends you should have to consider.",
+		"date" : "29 January 2020",
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing elit hac turpis pharetra, tristique mollis vel a nascetur convallis arcu proin in, magna tellus semper augue ridiculus justo nisl habitant parturient. Placerat bibendum pretium cubilia scelerisque molestie nostra, habitant nisl aenean at leo mollis, potenti luctus vulputate fermentum porta. Quis rhoncus hendrerit augue ante vulputate luctus semper scelerisque justo, molestie viverra blandit aliquet maecenas est sollicitudin tempor dis felis, posuere commodo libero pharetra facilisis mauris mi diam.",
+			"Convallis habitant feugiat torquent suspendisse lobortis posuere sociosqu parturient ut mollis, porta nisl id platea molestie pellentesque elementum dictum. Mauris justo cubilia aliquam conubia dapibus erat vel tortor, dignissim interdum cras nunc mollis sodales ut eleifend, aliquet nec odio himenaeos felis vehicula velit. Porttitor diam non dictumst ridiculus risus ornare pulvinar enim phasellus per conubia, fringilla ut fusce commodo maecenas nisl erat feugiat proin eu dui in, odio nec ac ad eros auctor facilisis duis turpis massa.",
+			"Orci felis dignissim massa vivamus nisi rhoncus fermentum curabitur eros, cras sem venenatis phasellus nibh donec aliquam facilisis, sagittis ut vulputate conubia dictum fames convallis justo. Libero vestibulum lacus eget conubia rutrum hendrerit et mollis, maecenas torquent mattis ante aenean nostra vehicula platea, ornare mi dictumst nisl cras vivamus semper. Et venenatis tempus molestie facilisi cras augue litora sapien, nisl volutpat risus dictum vivamus eleifend neque consequat, eros commodo parturient mauris mus fusce hendrerit. Litora odio congue potenti ligula praesent mollis lacinia lectus quis non ultrices vestibulum, fringilla nascetur massa turpis eros libero varius ridiculus cubilia curae.",
+			"Convallis habitant feugiat torquent suspendisse lobortis posuere sociosqu parturient ut mollis, porta nisl id platea molestie pellentesque elementum dictum. Mauris justo cubilia aliquam conubia dapibus erat vel tortor, dignissim interdum cras nunc mollis sodales ut eleifend, aliquet nec odio himenaeos felis vehicula velit. Porttitor diam non dictumst ridiculus risus ornare pulvinar enim phasellus per conubia, fringilla ut fusce commodo maecenas nisl erat feugiat proin eu dui in, odio nec ac ad eros auctor facilisis duis turpis massa."
+		]
+	},
+	{
+		"image" : "images/blog-2-min.jpg",
+		"alt": "Handwriting Fonts",
+		"title" : "Best and Beautiful Free Handwriting Fonts in 2020.",
+		"date" : "02 February 2020",
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing elit hac turpis pharetra, tristique mollis vel a nascetur convallis arcu proin in, magna tellus semper augue ridiculus justo nisl habitant parturient. Placerat bibendum pretium cubilia scelerisque molestie nostra, habitant nisl aenean at leo mollis, potenti luctus vulputate fermentum porta. Quis rhoncus hendrerit augue ante vulputate luctus semper scelerisque justo, molestie viverra blandit aliquet maecenas est sollicitudin tempor dis felis, posuere commodo libero pharetra facilisis mauris mi diam.",
+			"Convallis habitant feugiat torquent suspendisse lobortis posuere sociosqu parturient ut mollis, porta nisl id platea molestie pellentesque elementum dictum. Mauris justo cubilia aliquam conubia dapibus erat vel tortor, dignissim interdum cras nunc mollis sodales ut eleifend, aliquet nec odio himenaeos felis vehicula velit. Porttitor diam non dictumst ridiculus risus ornare pulvinar enim phasellus per conubia, fringilla ut fusce commodo maecenas nisl erat feugiat proin eu dui in, odio nec ac ad eros auctor facilisis duis turpis massa.",
+			"Orci felis dignissim massa vivamus nisi rhoncus fermentum curabitur eros, cras sem venenatis phasellus nibh donec aliquam facilisis, sagittis ut vulputate conubia dictum fames convallis justo. Libero vestibulum lacus eget conubia rutrum hendrerit et mollis, maecenas torquent mattis ante aenean nostra vehicula platea, ornare mi dictumst nisl cras vivamus semper. Et venenatis tempus molestie facilisi cras augue litora sapien, nisl volutpat risus dictum vivamus eleifend neque consequat, eros commodo parturient mauris mus fusce hendrerit. Litora odio congue potenti ligula praesent mollis lacinia lectus quis non ultrices vestibulum, fringilla nascetur massa turpis eros libero varius ridiculus cubilia curae.",
+			"Convallis habitant feugiat torquent suspendisse lobortis posuere sociosqu parturient ut mollis, porta nisl id platea molestie pellentesque elementum dictum. Mauris justo cubilia aliquam conubia dapibus erat vel tortor, dignissim interdum cras nunc mollis sodales ut eleifend, aliquet nec odio himenaeos felis vehicula velit. Porttitor diam non dictumst ridiculus risus ornare pulvinar enim phasellus per conubia, fringilla ut fusce commodo maecenas nisl erat feugiat proin eu dui in, odio nec ac ad eros auctor facilisis duis turpis massa."
+		]
+	},
+	{
+		"image" : "images/blog-3-min.jpg",
+		"alt": "CSS3",
+		"title" : "All you ever needed to know about HTML5 and CSS3.",
+		"date" : "06 February 2020",
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing elit hac turpis pharetra, tristique mollis vel a nascetur convallis arcu proin in, magna tellus semper augue ridiculus justo nisl habitant parturient. Placerat bibendum pretium cubilia scelerisque molestie nostra, habitant nisl aenean at leo mollis, potenti luctus vulputate fermentum porta. Quis rhoncus hendrerit augue ante vulputate luctus semper scelerisque justo, molestie viverra blandit aliquet maecenas est sollicitudin tempor dis felis, posuere commodo libero pharetra facilisis mauris mi diam.",
+			"Convallis habitant feugiat torquent suspendisse lobortis posuere sociosqu parturient ut mollis, porta nisl id platea molestie pellentesque elementum dictum. Mauris justo cubilia aliquam conubia dapibus erat vel tortor, dignissim interdum cras nunc mollis sodales ut eleifend, aliquet nec odio himenaeos felis vehicula velit. Porttitor diam non dictumst ridiculus risus ornare pulvinar enim phasellus per conubia, fringilla ut fusce commodo maecenas nisl erat feugiat proin eu dui in, odio nec ac ad eros auctor facilisis duis turpis massa.",
+			"Orci felis dignissim massa vivamus nisi rhoncus fermentum curabitur eros, cras sem venenatis phasellus nibh donec aliquam facilisis, sagittis ut vulputate conubia dictum fames convallis justo. Libero vestibulum lacus eget conubia rutrum hendrerit et mollis, maecenas torquent mattis ante aenean nostra vehicula platea, ornare mi dictumst nisl cras vivamus semper. Et venenatis tempus molestie facilisi cras augue litora sapien, nisl volutpat risus dictum vivamus eleifend neque consequat, eros commodo parturient mauris mus fusce hendrerit. Litora odio congue potenti ligula praesent mollis lacinia lectus quis non ultrices vestibulum, fringilla nascetur massa turpis eros libero varius ridiculus cubilia curae.",
+			"Convallis habitant feugiat torquent suspendisse lobortis posuere sociosqu parturient ut mollis, porta nisl id platea molestie pellentesque elementum dictum. Mauris justo cubilia aliquam conubia dapibus erat vel tortor, dignissim interdum cras nunc mollis sodales ut eleifend, aliquet nec odio himenaeos felis vehicula velit. Porttitor diam non dictumst ridiculus risus ornare pulvinar enim phasellus per conubia, fringilla ut fusce commodo maecenas nisl erat feugiat proin eu dui in, odio nec ac ad eros auctor facilisis duis turpis massa."
+		]
+	}
+]

@@ -1,0 +1,282 @@
+[
+	{
+		"title" : "Title Project 1",
+		"image" : "images/work-image1.jpg",
+		"alt": "Project 1",
+		"icoFont" : [
+			"icofont-bag-alt",
+			"icofont-label",
+			"icofont-user-alt-7",
+			"icofont-code-alt"
+		],
+		"features" : [
+			"Project: ",
+			"Category: ", 
+			"Client: ", 
+			"Technology: "
+		],
+		"featureValue" : [
+			"Website",
+			"Corporate", 
+			"Envato", 
+			"HTML5, CSS, JAVASCRIPT"
+		],
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing, elit auctor nullam augue sagittis enim, ut turpis dis morbi ridiculus. Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna, orci enim volutpat rutrum per tellus. Habitasse habitant hac maecenas accumsan sapien hendrerit curae augue, lacus primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae.",
+			"Lacus Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae."
+		],
+		"href" : "index.html"
+	},
+	{
+		"title" : "Title Project 2",
+		"image" : "images/work-image2.jpg",
+		"alt": "Project 2",
+		"icoFont" : [
+			"icofont-bag-alt",
+			"icofont-label",
+			"icofont-user-alt-7",
+			"icofont-code-alt"
+		],
+		"features" : [
+			"Project: ",
+			"Category: ", 
+			"Client: ", 
+			"Technology: "
+		],
+		"featureValue" : [
+			"Website",
+			"Personal", 
+			"Envato", 
+			"HTML5, CSS, JAVASCRIPT"
+		],
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing, elit auctor nullam augue sagittis enim, ut turpis dis morbi ridiculus. Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna, orci enim volutpat rutrum per tellus. Habitasse habitant hac maecenas accumsan sapien hendrerit curae augue, lacus primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae.",
+			"Lacus Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae."
+		],
+		"href" : "index.html"
+	},
+	{
+		"title" : "Title Project 3",
+		"image" : "images/work-image3.jpg",
+		"alt": "Project 3",
+		"icoFont" : [
+			"icofont-bag-alt",
+			"icofont-label",
+			"icofont-user-alt-7",
+			"icofont-code-alt"
+		],
+		"features" : [
+			"Project: ",
+			"Category: ", 
+			"Client: ", 
+			"Technology: "
+		],
+		"featureValue" : [
+			"Website",
+			"Wordpress", 
+			"Envato", 
+			"HTML5, CSS, JAVASCRIPT"
+		],
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing, elit auctor nullam augue sagittis enim, ut turpis dis morbi ridiculus. Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna, orci enim volutpat rutrum per tellus. Habitasse habitant hac maecenas accumsan sapien hendrerit curae augue, lacus primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae.",
+			"Lacus Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae."
+		],
+		"href" : "index.html"
+	},
+	{
+		"title" : "Title Project 4",
+		"image" : "images/work-image4.jpg",
+		"alt": "Project 4",
+		"icoFont" : [
+			"icofont-bag-alt",
+			"icofont-label",
+			"icofont-user-alt-7",
+			"icofont-code-alt"
+		],
+		"features" : [
+			"Project: ",
+			"Category: ", 
+			"Client: ", 
+			"Technology: "
+		],
+		"featureValue" : [
+			"Website",
+			"Ecommerce", 
+			"Envato", 
+			"HTML5, CSS, JAVASCRIPT"
+		],
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing, elit auctor nullam augue sagittis enim, ut turpis dis morbi ridiculus. Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna, orci enim volutpat rutrum per tellus. Habitasse habitant hac maecenas accumsan sapien hendrerit curae augue, lacus primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae.",
+			"Lacus Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae."
+		],
+		"href" : "index.html"
+	},
+	{
+		"title" : "Title Project 5",
+		"image" : "images/work-image5.jpg",
+		"alt": "Project 5",
+		"icoFont" : [
+			"icofont-bag-alt",
+			"icofont-label",
+			"icofont-user-alt-7",
+			"icofont-code-alt"
+		],
+		"features" : [
+			"Project: ",
+			"Category: ", 
+			"Client: ", 
+			"Technology: "
+		],
+		"featureValue" : [
+			"Website",
+			"Corporate", 
+			"Envato", 
+			"HTML5, CSS, JAVASCRIPT"
+		],
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing, elit auctor nullam augue sagittis enim, ut turpis dis morbi ridiculus. Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna, orci enim volutpat rutrum per tellus. Habitasse habitant hac maecenas accumsan sapien hendrerit curae augue, lacus primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae.",
+			"Lacus Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae."
+		],
+		"href" : "index.html"
+	},
+	{
+		"title" : "Title Project 6",
+		"image" : "images/work-image6.jpg",
+		"alt": "Project 6",
+		"icoFont" : [
+			"icofont-bag-alt",
+			"icofont-label",
+			"icofont-user-alt-7",
+			"icofont-code-alt"
+		],
+		"features" : [
+			"Project: ",
+			"Category: ", 
+			"Client: ", 
+			"Technology: "
+		],
+		"featureValue" : [
+			"Website",
+			"Personal", 
+			"Envato", 
+			"HTML5, CSS, JAVASCRIPT"
+		],
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing, elit auctor nullam augue sagittis enim, ut turpis dis morbi ridiculus. Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna, orci enim volutpat rutrum per tellus. Habitasse habitant hac maecenas accumsan sapien hendrerit curae augue, lacus primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae.",
+			"Lacus Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae."
+		],
+		"href" : "index.html"
+	},
+	{
+		"title" : "Title Project 7",
+		"image" : "images/work-image7.jpg",
+		"alt": "Project 7",
+		"icoFont" : [
+			"icofont-bag-alt",
+			"icofont-label",
+			"icofont-user-alt-7",
+			"icofont-code-alt"
+		],
+		"features" : [
+			"Project: ",
+			"Category: ", 
+			"Client: ", 
+			"Technology: "
+		],
+		"featureValue" : [
+			"Website",
+			"Wordpress", 
+			"Envato", 
+			"HTML5, CSS, JAVASCRIPT"
+		],
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing, elit auctor nullam augue sagittis enim, ut turpis dis morbi ridiculus. Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna, orci enim volutpat rutrum per tellus. Habitasse habitant hac maecenas accumsan sapien hendrerit curae augue, lacus primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae.",
+			"Lacus Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae."
+		],
+		"href" : "index.html"
+	},
+	{
+		"title" : "Title Project 8",
+		"image" : "images/work-image8.jpg",
+		"alt": "Project 8",
+		"icoFont" : [
+			"icofont-bag-alt",
+			"icofont-label",
+			"icofont-user-alt-7",
+			"icofont-code-alt"
+		],
+		"features" : [
+			"Project: ",
+			"Category: ", 
+			"Client: ", 
+			"Technology: "
+		],
+		"featureValue" : [
+			"Website",
+			"Ecommerce", 
+			"Envato", 
+			"HTML5, CSS, JAVASCRIPT"
+		],
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing, elit auctor nullam augue sagittis enim, ut turpis dis morbi ridiculus. Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna, orci enim volutpat rutrum per tellus. Habitasse habitant hac maecenas accumsan sapien hendrerit curae augue, lacus primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae.",
+			"Lacus Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae."
+		],
+		"href" : "index.html"
+	},
+	{
+		"title" : "Title Project 9",
+		"image" : "images/work-image9.jpg",
+		"alt": "Project 9",
+		"icoFont" : [
+			"icofont-bag-alt",
+			"icofont-label",
+			"icofont-user-alt-7",
+			"icofont-code-alt"
+		],
+		"features" : [
+			"Project: ",
+			"Category: ", 
+			"Client: ", 
+			"Technology: "
+		],
+		"featureValue" : [
+			"Website",
+			"Personal", 
+			"Envato", 
+			"HTML5, CSS, JAVASCRIPT"
+		],
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing, elit auctor nullam augue sagittis enim, ut turpis dis morbi ridiculus. Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna, orci enim volutpat rutrum per tellus. Habitasse habitant hac maecenas accumsan sapien hendrerit curae augue, lacus primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae.",
+			"Lacus Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae."
+		],
+		"href" : "index.html"
+	},
+	{
+		"title" : "Title Project 10",
+		"image" : "images/work-image10.jpg",
+		"alt": "Project 10",
+		"icoFont" : [
+			"icofont-bag-alt",
+			"icofont-label",
+			"icofont-user-alt-7",
+			"icofont-code-alt"
+		],
+		"features" : [
+			"Project: ",
+			"Category: ", 
+			"Client: ", 
+			"Technology: "
+		],
+		"featureValue" : [
+			"Website",
+			"Wordpress", 
+			"Envato", 
+			"HTML5, CSS, JAVASCRIPT"
+		],
+		"article" : [
+			"Lorem ipsum dolor sit amet consectetur adipiscing, elit auctor nullam augue sagittis enim, ut turpis dis morbi ridiculus. Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna, orci enim volutpat rutrum per tellus. Habitasse habitant hac maecenas accumsan sapien hendrerit curae augue, lacus primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae.",
+			"Lacus Sem nascetur curae elementum dictum venenatis lacus himenaeos, placerat malesuada ridiculus sollicitudin donec laoreet magna primis netus tellus integer nisl condimentum, nunc imperdiet blandit ornare semper orci duis. Congue maecenas pellentesque fusce ultricies elementum eros imperdiet malesuada lacinia, facilisi molestie morbi volutpat vivamus dictum mollis sodales sapien, nisl augue suscipit neque tempor diam consequat curae."
+		],
+		"href" : "index.html"
+	}
+]
