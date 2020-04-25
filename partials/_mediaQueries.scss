@@ -1,0 +1,113 @@
+@media(max-width: 1050px) {
+    h1 {
+        font-size: 4rem;
+    }
+    h2 {
+        font-size: 6.5rem;
+    }
+
+    
+    header .hamburger {
+        display: flex;
+    }
+    header ul {
+      position: absolute;
+      left: 0;
+      top:-2000%;
+      display: none;
+      height: 0;
+      width: 100%;
+      background-color: black;
+      transition: all 10s;
+    }
+    
+    header nav {
+    width: 100%;
+    align-items: flex-start;
+    justify-content: flex-end;
+    }
+    .displayHamburger {
+        top:64px;
+        height: 350px;
+        display: block;
+    }
+    .theActive {
+        color: $secondaryColor;
+      background-color: transparent;
+    }
+    .shadow{
+        font-size: 12rem;
+    }
+    .aboutImg img {
+    width: 100%;
+}
+    .aboutInfo {
+        flex-direction: column;
+        align-items: center;
+    }
+    .aboutText {
+        width: 100%;
+        margin-top: 70px;
+    }
+    .aboutImg {
+        width: auto;
+        margin-right: 0;
+        .abirPicBorder::before {
+            width: 100%;
+        }
+    }
+    .skillsList li {
+    width: calc(100% / 5);
+    }
+    .projects {
+        flex-direction: column;
+    }
+    .projectImg {
+        margin-bottom: 60px;
+    }
+    .projectInfo{
+        width: 100%;
+    }
+    .contactInfo h3{
+        font-size: 2.5rem;
+    }
+}
+@media(max-width: 900px) {
+    .contact {
+        flex-direction: column;
+    }
+    form {
+        width: 100%;
+    }
+    .contactInfo {
+        width: 100%;
+    }
+     .skillsList li {
+    width: calc(100% / 4);
+    }
+}
+
+@media(max-width: 600px) {
+ h3 {
+    font-size: 5.5rem;
+}
+	 h2{
+		font-size: 5.5rem;
+	}
+	.shadow{
+		font-size: 10rem;
+    }
+     .skillsList li {
+    width: calc(100% / 3);
+    }
+    .bodyWrapper {
+       width: 80%;
+    }
+}
+
+@media(max-width: 500px) {
+    .skillsList li {
+    width: calc(100% / 2);
+    }
+    
+}

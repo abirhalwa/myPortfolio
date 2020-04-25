@@ -3,14 +3,19 @@ app.currentLink='homeLink';
 
 app.navClick=function(){
     $('header nav a').on('click', function(event){
-        const navLinks=['homeLink', 'aboutLink', 'skillsLink', 'projectsLink', 'resumeLink', 'contactLink'];
+        if($(window).width()<1050 ) {
+                $('.hamburger').toggleClass("is-active");
+                $('header ul').toggleClass('displayHamburger');
+            
+        }
+        const navLinks=['homeLink', 'aboutLink', 'skillsLink', 'projectsLink','contactLink'];
         event.preventDefault();
         const previousLink = navLinks.indexOf(app.currentLink);
         const clickedLink=navLinks.indexOf($(this).attr('id'));
         if(previousLink===clickedLink) {
             return;
         }
-        $(`#${app.currentLink}`).removeClass('active');
+        $(`#${app.currentLink}`).removeClass('theActive');
         $(`#${app.currentLink}`).addClass('notActive');
         if (previousLink < clickedLink) {
             i = previousLink + 1;
@@ -19,10 +24,10 @@ app.navClick=function(){
             i = previousLink - 1;
         } 
         const t = setInterval(function () {
-                $(`#${navLinks[i]}`).addClass('active');
+                $(`#${navLinks[i]}`).addClass('theActive');
                 const x=setTimeout(function() {
                     if (i !== clickedLink) {
-                        $(`#${navLinks[i]}`).removeClass('active');
+                        $(`#${navLinks[i]}`).removeClass('theActive');
                         if(previousLink<clickedLink) {
                             i++;
                         }
@@ -31,19 +36,36 @@ app.navClick=function(){
                         }
                     }
                     else {
-                        clearInterval(t);
+                        clearInterval(x);
                     }
                 }, 250);    
+                if (i === clickedLink) {
+                    clearInterval(t);
+                    $(this).removeClass('notActive');
+                    $(this).addClass('theActive')
+            }
         }, 300); 
-        $(this).removeClass('notActive');
         app.currentLink = $(this).attr('id');
         const section=app.currentLink.replace('Link', '');
         $(document).off("scroll");
         $('html, body').animate({
             'scrollTop': $(`#${section}`).offset().top 
-        }, 500, 'swing', function () {
+        }, 1400, 'swing', function () {
            app.onScroll();
         });
+    });
+}
+
+app.logoClick= function () {
+$('#logo').on('click', function (){
+    document.location.href = "#home";
+});
+}
+
+app.hamburgerClick= function() {
+    $(".hamburger").click(function () {
+        $(this).toggleClass("is-active");
+        $('header ul').toggleClass('displayHamburger');
     });
 }
 
@@ -62,27 +84,32 @@ app.onScroll= function() {
             const refElement = $(currLink.attr("href"));
             
             if (scrollPos >= refElement.position().top && scrollPos < refElement.position().top + refElement.height()) {
-                console.log(scrollPos);
-                console.log(refElement.offset().top);
-                console.log(refElement.offset().top + refElement.height());
-                currLink.addClass("active");
+                currLink.addClass("theActive");
                 currLink.removeClass("notActive");
                 app.currentLink=currLink.attr('id');
                 
             }
             else {
                 currLink.blur();
-                currLink.removeClass("active");
+                currLink.removeClass("theActive");
                 currLink.addClass("notActive");
             }
         });
     });
     }
+
+    //to filter the projects
     app.projectTypeFilter=function() {
-        $('.projectTypes li').on('click', function(){
+        $('.projectTypes li a').on('click', function(event){
+            event.preventDefault();
+            $('.projectTypes li a')
+            $('.projectTypes li a').removeClass('theActive');
+            $('.projectTypes li a').addClass('notActive');
             $projectType=$(this);
-            console.log($projectType.attr('data-type'));
+            $projectType.removeClass('notActive');
+            $projectType.addClass('theActive');
             if ($projectType.attr('data-type')==='all'){
+                $('.projects').addClass('slide-in-bottom');
                 $('.projects').show();
                 return;
            }
@@ -92,21 +119,42 @@ app.onScroll= function() {
                     $project.hide();
                 }
                 else {
-
+                    $project.addClass('slide-in-bottom');
                     $project.show();
                 }
 
-
             });
+        });
+    }
 
-
+    app.sendEmail=function() {
+        $('form').on('submit', function(event){
+            event.preventDefault();
+            $('main form div img').css('display', 'block');
+            Email.send({
+                // Host: "smtp.gmail.com",
+                // Username: "abir.halwa@gmail.com",
+                // Password: "87654321@Ss",
+                SecureToken: "afc44161-5d66-44bc-aa9a-66940c5ee76f",
+                To: 'abir.halwa@gmail.com',
+                From: $('#email').val(),
+                Subject: `An email from ${$('#name').val()}`,
+                Body: $('#message').val(),
+            }).then(function(){
+                $('main form div img').css('display', 'none');
+                $('form').trigger("reset");
+                $('form p').text('Thank you! Your message has been successfully sent. I will contact you very soon!');
+            });
         });
     }
 app.init = function () {
+    app.hamburgerClick();
     app.navClick();
+    app.logoClick();
     app.onScroll();
     app.downloadCV();
     app.projectTypeFilter();
+    app.sendEmail();
 }
 
 $(function () {
